@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:quiz_mobile/homepage.dart';
+import 'package:quiz_mobile/info.dart';
 import 'package:quiz_mobile/loginpage.dart';
 
 void main() {
